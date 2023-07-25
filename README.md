@@ -1,5 +1,6 @@
 # QSV Whirlwind Tour
 
+![image](https://github.com/a5dur/qsv-whirlwind-tour/assets/116082689/f4428dd0-a66a-4c7a-9d5f-532f4ad0b169)
 
 Welcome to the QSV Whirlwind Tour! This repository contains an interactive Jupyter notebook version of the Whirlwind Tour for [QSV](https://github.com/jqnatividad/qsv/tree/master) (Query Structured Data). The Jupyter notebook format allows you to explore QSV's features, run queries, and visualize data interactively.
 
