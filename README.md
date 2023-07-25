@@ -2,26 +2,9 @@
 
 Welcome to the QSV Whirlwind Tour! This repository contains an interactive Jupyter notebook version of the Whirlwind Tour for [QSV](https://github.com/jqnatividad/qsv/tree/master) (Query Structured Data). The Jupyter notebook format allows you to explore QSV's features, run queries, and visualize data interactively.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Usage](#usage)
-- [Installation](#installation)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
-
 ## Overview
 
 The QSV Whirlwind Tour is an interactive guide to QSV, a powerful command-line tool for querying structured data from various file formats, including CSV, TSV, JSONL, and NDJSON. It showcases QSV's capabilities with examples of selection, projection, filtering, and aggregation operations.
-
-## Usage
-
-To explore the QSV Whirlwind Tour, you have the following options:
-
-1. **Interactive Online View**: You can view the notebook directly on GitHub or use the "Open in Colab" button to interact with it on Google Colaboratory.
-
-2. **Local Installation**: If you prefer to run the notebook locally on your machine, follow the installation instructions below.
 
 ## Installation
 
