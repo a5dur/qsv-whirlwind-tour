@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-Welcome to the QSV Whirlwind Tour! This repository contains an interactive Jupyter notebook version of the Whirlwind Tour for [QSV](https://github.com/jqnatividad/qsv/tree/master){{ site. (Query Structured Data). The Jupyter notebook format allows you to explore QSV's features, run queries, and visualize data interactively.
+Welcome to the QSV Whirlwind Tour! This repository contains an interactive Jupyter notebook version of the Whirlwind Tour for [QSV](https://github.com/jqnatividad/qsv/tree/master) (Query Structured Data). The Jupyter notebook format allows you to explore QSV's features, run queries, and visualize data interactively.
 
 ## Table of Contents
 
@@ -37,5 +37,16 @@ Please make sure you have Python, Jupyter Notebook, and QSV installed before pro
 
 1. Clone this GitHub repository to your local machine:
    ```https://github.com/a5dur/qsv-whirlwind-tour```
+2. Launch Jupyter Notebook:
+3. In the Jupyter Notebook interface, navigate to the "QSV_Whirlwind_Tour.ipynb" file and click on it to open the notebook.
+4. Now, you can interactively explore the QSV Whirlwind Tour and execute the query cells.
+     > make sure to use !qsv to run any commands
 
+## Contributing
+
+We welcome contributions to improve and expand the QSV Whirlwind Tour! If you find any issues or have suggestions for new features, feel free to open an issue or create a pull request.
+
+## Acknowledgments
+
+The QSV Jupyter Whirlwind Tour showcases the capabilities of QSV (Query Structured Data), a command-line tool and Python library developed by [Joel Natividad](https://github.com/jqnatividad)  🚀
 
