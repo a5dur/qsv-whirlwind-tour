@@ -1,6 +1,5 @@
 # 🌪️ QSV Whirlwind Tour
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 Welcome to the QSV Whirlwind Tour! This repository contains an interactive Jupyter notebook version of the Whirlwind Tour for [QSV](https://github.com/jqnatividad/qsv/tree/master) (Query Structured Data). The Jupyter notebook format allows you to explore QSV's features, run queries, and visualize data interactively.
 
