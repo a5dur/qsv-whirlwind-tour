@@ -14,7 +14,7 @@ Welcome to the QSV Whirlwind Tour! This repository contains an interactive Jupyt
 
 ## Overview
 
-The QSV Whirlwind Tour is an interactive guide to QSV, a powerful command-line tool and Python library for querying structured data from various file formats, including CSV, TSV, JSONL, and NDJSON. It showcases QSV's capabilities with examples of selection, projection, filtering, and aggregation operations.
+The QSV Whirlwind Tour is an interactive guide to QSV, a powerful command-line tool for querying structured data from various file formats, including CSV, TSV, JSONL, and NDJSON. It showcases QSV's capabilities with examples of selection, projection, filtering, and aggregation operations.
 
 ## Usage
 
@@ -47,5 +47,5 @@ We welcome contributions to improve and expand the QSV Whirlwind Tour! If you fi
 
 ## Acknowledgments
 
-The QSV Jupyter Whirlwind Tour showcases the capabilities of QSV (Query Structured Data), a command-line tool and Python library developed by [Joel Natividad](https://github.com/jqnatividad)  🚀
+The QSV Jupyter Whirlwind Tour showcases the capabilities of QSV (Query Structured Data), a command-line tool developed by [Joel Natividad](https://github.com/jqnatividad)  🚀
 
